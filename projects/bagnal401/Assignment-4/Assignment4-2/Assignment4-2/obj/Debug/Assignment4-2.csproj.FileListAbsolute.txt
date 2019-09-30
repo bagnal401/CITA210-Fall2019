@@ -1,0 +1,10 @@
+C:\Users\inter\Documents\CITA210\CITA210-Fall2019\projects\bagnal401\Assignment-4\Assignment4-2\Assignment4-2\bin\Debug\Assignment4-2.exe.config
+C:\Users\inter\Documents\CITA210\CITA210-Fall2019\projects\bagnal401\Assignment-4\Assignment4-2\Assignment4-2\bin\Debug\Assignment4-2.exe
+C:\Users\inter\Documents\CITA210\CITA210-Fall2019\projects\bagnal401\Assignment-4\Assignment4-2\Assignment4-2\bin\Debug\Assignment4-2.pdb
+C:\Users\inter\Documents\CITA210\CITA210-Fall2019\projects\bagnal401\Assignment-4\Assignment4-2\Assignment4-2\obj\Debug\Assignment4-2.csprojAssemblyReference.cache
+C:\Users\inter\Documents\CITA210\CITA210-Fall2019\projects\bagnal401\Assignment-4\Assignment4-2\Assignment4-2\obj\Debug\Assignment4_2.Form1.resources
+C:\Users\inter\Documents\CITA210\CITA210-Fall2019\projects\bagnal401\Assignment-4\Assignment4-2\Assignment4-2\obj\Debug\Assignment4_2.Properties.Resources.resources
+C:\Users\inter\Documents\CITA210\CITA210-Fall2019\projects\bagnal401\Assignment-4\Assignment4-2\Assignment4-2\obj\Debug\Assignment4-2.csproj.GenerateResource.cache
+C:\Users\inter\Documents\CITA210\CITA210-Fall2019\projects\bagnal401\Assignment-4\Assignment4-2\Assignment4-2\obj\Debug\Assignment4-2.csproj.CoreCompileInputs.cache
+C:\Users\inter\Documents\CITA210\CITA210-Fall2019\projects\bagnal401\Assignment-4\Assignment4-2\Assignment4-2\obj\Debug\Assignment4-2.exe
+C:\Users\inter\Documents\CITA210\CITA210-Fall2019\projects\bagnal401\Assignment-4\Assignment4-2\Assignment4-2\obj\Debug\Assignment4-2.pdb
